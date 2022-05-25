@@ -6,3 +6,4 @@ ls -la display current directory contents, including hidden files.
 ls -an display current directory contents.
 mkdir creates a directory.
 mv move files.
+rm -r remove or delete file and directory.
