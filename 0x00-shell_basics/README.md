@@ -16,3 +16,4 @@ cp * used to copy specific file type.
 mv src/*[A-Z]* moves files that begins with an uppercase.
 rm -f *~ deletes files that ends with.
 mkdir -p to create directory tree.
+ls -m lists files and folders separated by comma.
