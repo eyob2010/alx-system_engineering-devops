@@ -10,3 +10,4 @@ rm -r remove or delete file and directory.
 rm -r remove or delete a directory.
 cd .. changes the working directory to the previous one.
 ls -laxo lists all files.
+file helps to know file type.
