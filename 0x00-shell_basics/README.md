@@ -5,3 +5,4 @@ ls -l display current directory contents in a long format.
 ls -la display current directory contents, including hidden files.
 ls -an display current directory contents.
 mkdir creates a directory.
+mv move files.
