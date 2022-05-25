@@ -7,3 +7,4 @@ ls -an display current directory contents.
 mkdir creates a directory.
 mv move files.
 rm -r remove or delete file and directory.
+rm -r remove or delete a directory.
