@@ -8,3 +8,4 @@ mkdir creates a directory.
 mv move files.
 rm -r remove or delete file and directory.
 rm -r remove or delete a directory.
+cd .. changes the working directory to the previous one.
