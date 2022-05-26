@@ -4,4 +4,5 @@ id -nG used to print the groups the current user members of.
 chown betty hello used to change the ownership to betty.
 touch command used to create an empty file.
 chmod u+x used to add executable permission to the owner of a file.
-chmod 114 is used to set different permissions.
+chmod 514 is used to set different permissions.
+chmod 511 is used to add execute permission to all.
