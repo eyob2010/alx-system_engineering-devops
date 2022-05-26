@@ -8,3 +8,4 @@ chmod u+x g+x o+r is used to set different permissions.
 chmod a+x is used to add execute permission to all.
 chmod changing different permissions.
 chmod 753 to set different permission.
+chmod --reference is used to copy permission from one file to another.
