@@ -9,3 +9,5 @@ chmod a+x is used to add execute permission to all.
 chmod changing different permissions.
 chmod 753 to set different permission.
 chmod --reference is used to copy permission from one file to another.
+chmod -R used to set permission to subdirectories.
+chmod mkdir -m used to create directory with permission.
