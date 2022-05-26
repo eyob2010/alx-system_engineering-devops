@@ -6,3 +6,4 @@ touch command used to create an empty file.
 chmod u+x used to add executable permission to the owner of a file.
 chmod u+x g+x o+r is used to set different permissions.
 chmod a+x is used to add execute permission to all.
+chmod changing different permissions.
