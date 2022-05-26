@@ -11,3 +11,7 @@ chmod 753 to set different permission.
 chmod --reference is used to copy permission from one file to another.
 chmod -R used to set permission to subdirectories.
 chmod mkdir -m used to create directory with permission.
+chmod to change permission.
+chmod changing permissions.
+chmod changes permissions.
+chmod changes permissions.
