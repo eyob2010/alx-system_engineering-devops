@@ -13,5 +13,5 @@ chmod -R used to set permission to subdirectories.
 chmod mkdir -m used to create directory with permission.
 chmod to change permission.
 chmod changing permissions.
-chmod changes permissions.
+chow --from= used to change ownership if a criteria meets.
 chmod changes permissions.
