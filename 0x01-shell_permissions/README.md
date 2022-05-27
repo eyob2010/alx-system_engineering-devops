@@ -12,6 +12,6 @@ chmod --reference is used to copy permission from one file to another.
 chmod -R used to set permission to subdirectories.
 chmod mkdir -m used to create directory with permission.
 chmod to change permission.
-chmod changing permissions.
+chown NewOwner:NewGroup File changes the ownership of user and group at a time.
 chow --from= used to change ownership if a criteria meets.
 chmod changes permissions.
