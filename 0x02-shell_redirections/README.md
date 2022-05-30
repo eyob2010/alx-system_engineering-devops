@@ -7,4 +7,5 @@ head filename1 used to print the first 10 lines.
 head -3 filename1 tail -3 used to print the third line.
 echo text > filename used to create and write text at a time.
 ls -l >> NewFile used to write the output of ls to NewFile.
-tail -1 file1 >> file1 duplicates the last line.  
+tail -1 file1 >> file1 duplicates the last line.
+rm -r /path/ * .xtention used to remove al files in subdirectory with some extention. 
