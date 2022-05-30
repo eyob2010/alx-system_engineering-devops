@@ -1,2 +1,2 @@
 #!/bin/bash
-rm  /0x02-shell_redirections/*.js
+rm -r /0x02-shell_redirections/*.js
