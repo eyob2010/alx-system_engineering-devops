@@ -9,3 +9,4 @@ export Name="Value" used to create global variable.
 echo $((variable+num2)) prints the sum result. 
 echo $((var1/var2)) print the divisiion result.
 echo $((var1**var2)) print var1 to the power var2.
+echo 'obase=2; ibase=10; var1' | bc used to convert base 2 to 10.
