@@ -6,3 +6,4 @@ printenv to display global or environmental variables.
 set | less helps to list local variables.
 Name="Value" used to declare local variable.
 export Name="Value" used to create global variable.
+echo $((variable+num2)) prints the sum result. 
