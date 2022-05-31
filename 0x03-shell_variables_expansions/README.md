@@ -8,3 +8,4 @@ Name="Value" used to declare local variable.
 export Name="Value" used to create global variable.
 echo $((variable+num2)) prints the sum result. 
 echo $((var1/var2)) print the divisiion result.
+echo $((var1**var2)) print var1 to the power var2.
