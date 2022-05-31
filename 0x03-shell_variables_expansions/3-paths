@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /etc/ | wc -l
+ls /$PATH/ | wc -l
